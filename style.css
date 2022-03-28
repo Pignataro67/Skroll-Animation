@@ -18,3 +18,10 @@ body {
 h1 {
   margin: 10px;
 }
+
+.box {
+  background-color: steelblue;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
